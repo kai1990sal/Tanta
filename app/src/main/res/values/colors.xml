@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#382019</color>
+
+    <color name="colorPrimaryDark">#2F1D1A</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="anotherBlack">#1A3131</color>
+
+    <color name="paleSpringBud">#E3D7CD</color>
+
+    <color name="border">#5C3083</color>
+
+    <color name="borderBack">#7A5533</color>
+
+    <color name="generalBackground">#C5CCBE</color>
+
+    <color name="category_restaurants">#B33939</color>
+
+    <color name="category_Shops">#11C0B7</color>
+
+    <color name="category_museums">#AADA53</color>
+
+    <color name="category_PlayGround">#B17D12</color>
+
+</resources>

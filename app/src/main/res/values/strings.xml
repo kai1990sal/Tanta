@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Tanta</string>
+    <string name="category">lists</string>
+    <string name="welcome">welcome</string>
+    <string name="city_name">tanta</string>
+    <string name="start">start</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="mesuems">Mesuems</string>
+    <string name="shops">Shops</string>
+    <string name="play_ground">play_ground</string>
+
+    <!-- Restaurant -->
+
+    <string name="lahalibo">lahlibo</string>
+    <string name="kentaki">kentaki</string>
+    <string name="macdonaldz">macfonaldz</string>
+
+    <!--Restaurant address -->
+
+    <string name="lahliboAdd">12 tah alhakeim</string>
+    <string name="kentakiadd">11 the tower street</string>
+    <string name="macdonaldzadd">44 the beach street</string>
+
+    <!-- mesuems -->
+
+    <string name="tanta_mesuem">Tanta mesuem</string>
+    <string name="adsMesuem">ads tower mesuem</string>
+    <string name="theNightMesuem">tanta night mesuem</string>
+
+    <!--mesuems address -->
+
+    <string name="tMs">12 the city street</string>
+    <string name="adsMs">11 the luxor street</string>
+    <string name="nightMs">44 the mesuem street</string>
+
+    <!-- shops -->
+
+    <string name="lahalibo_shop">lahlibo shops for shoes</string>
+    <string name="kentShops">kent shops for the telephones</string>
+    <string name="maanForAAAShops">shops for the new movies videos</string>
+
+    <!--shops address -->
+
+    <string name="laShops">122 ta akeim street</string>
+    <string name="KentShopsadd">12 the tower street</string>
+    <string name="maanShops">33 the beach street</string>
+
+    <!-- playground -->
+
+    <string name="mina">mina playgrounds</string>
+    <string name="the_tower">tower playground</string>
+    <string name="theGamerP">the gamer playground</string>
+
+    <!--playground address -->
+
+    <string name="minaadd">15 tah alhakeim</string>
+    <string name="theTowerPAdd">144 the tower street</string>
+    <string name="GamerAdd">22 the beach street</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
